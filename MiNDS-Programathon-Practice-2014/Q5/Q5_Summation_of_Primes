@@ -1,0 +1,20 @@
+package MiNDS_Programathon_Practice_2014;
+
+import java.math.BigInteger;
+import java.util.Scanner;
+
+public class Q5_Summation_of_Primes {
+	public static void main(String[] args) {
+		Scanner scn = new Scanner(System.in);
+		int size = scn.nextInt();
+
+		BigInteger result = BigInteger.ZERO;
+
+		for (BigInteger num = BigInteger.valueOf(2); num.compareTo(BigInteger
+				.valueOf(size)) < 0; num = num.nextProbablePrime()) {
+			result = result.add(num);
+		}
+
+		System.out.println(result);
+	}
+}
