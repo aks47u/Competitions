@@ -4,7 +4,7 @@ A hexagonal orchard of order n is a triangular lattice made up of points
 within a regular hexagon with side n. The following is an example of a
 hexagonal orchard of order 5:
 
-https://www.dropbox.com/s/p94nb6wjryjklop/hexorchard.png
+https://www.dropbox.com/lightbox/home/eclipse/Competitions/MiNDS_ProgramathonPractice_2014
 
 Highlighted in green are the points which are hidden from the center by a
 point closer to it. It can be seen that for a hexagonal orchard of order 5,
