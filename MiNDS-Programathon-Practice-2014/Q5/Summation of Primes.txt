@@ -1,0 +1,20 @@
+Summation of Primes
+
+Programming Jesus Conor has just solved a Project Euler question and wants to
+test his Haskell code vs whatever the hell you're using so he can feel smug
+and tell you that your language is shit. Find the sum of all the primes up to
+and including an integer n, if n is prime.
+
+Input An integer n, 2 <= n <= 1,000,000 Output The sum of all the primes up
+to and including n, if n is prime.
+
+Sample Testcases
+Input 1
+9
+Output 1
+17
+ 
+Input 2
+100
+Output 2
+1060
