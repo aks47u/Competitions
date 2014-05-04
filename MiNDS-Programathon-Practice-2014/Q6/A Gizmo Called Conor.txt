@@ -1,0 +1,27 @@
+A Gizmo Called Conor
+
+You've been given Gizmo from the film Gremlins as a pet. One rule you must
+follow is Gizmo is never allowed eat after midnight under any circumstances
+or weird things will happen. Now you're a crafty programmer who likes to
+spoil his pet and plan ahead so you've decided to write a program that
+calculates how many pieces of ham Gizmo will eat between 2 times. Here are
+the eating rules you came up with:
+
+1) Gizmo is not allowed to eat anything between midnight and 6am (he can eat
+  in the 6am-7am hour).
+2) Gizmo gets 3 pieces of ham per hour after 6am until 1pm.
+3) Gizmo gets 2 pieces of ham per hour after 1pm until 6pm.
+4) Gizmo gets 1 piece of ham per hour after 6pm until midnight.
+
+Note: You'll take in 2 numbers using input: The hour to start at and the hour
+  to end before.
+Note: We'll use a 24 hour clock. 23 is 11pm, 0 is midnight, 1 is 1am
+Note: The time period might span over 2 days, think about how you could reset
+  the hour to 0 when you reach 24
+
+Sample In
+7
+8
+
+Sample Out
+3
