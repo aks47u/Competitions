@@ -1,0 +1,32 @@
+The Proclaimers - I'm Gonna Be (500 Miles)
+
+As it happens Santa has made a bit of an error and put RGB-D software on this
+years list of things that people can have. Tom is under lots of pressure to
+come through for him and doesn't want to disappoint all of the doe-eyed
+Computer Scientists of the world who would be very upset Christmas morning
+without their new software to play with, but things are going a bit slow
+copying everything onto Santa's custom flash drives. So Tom has decided that
+he's going to work through the night and that Santa will have to keep calling
+back to him to pick up the flashdrives as they're ready. Santa needs to work
+out far away he is from NUI Maynooth each time that Tom calls him to see how
+hard he has to whip those lazy blasted reindeer to get back to Tom in a set
+time. Calculate the distance between NUI Maynooth and another point on the
+Earth's surface where Santa will be located. Take the radius of the Earth to
+be 6378.1km, the latitude of NUI Maynooth to be 53.385, and the longitude of
+NUI Maynooth to be -6.602.
+
+
+Input
+Two doubles representing the latitude and longitude of a point on the Earth's surface.
+
+Output
+The distance between the NUI Maynooth and the other point in km, cast to an Integer.
+
+
+Sample Testcase
+Input 1
+48.858
+2.294
+
+Output 1
+797
