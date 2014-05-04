@@ -1,0 +1,14 @@
+Programathon 2013 Q1
+
+Your challenge is to take in a number and print out all the values of its
+Collatz sequence.
+
+Note you do not have to print out the number itself again but you must always
+end in 1.
+
+To get any marks for this question you must get all test cases correct.
+
+Sample Input
+3
+Sample Output
+10 5 16 8 4 2 1
