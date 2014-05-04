@@ -1,0 +1,17 @@
+HackerRank stdIn_stdOut Practice
+
+This is a sample to get you used to the HackerRank stdIn/stdOut system. Your
+task for this question is to read in an Integer n and print out
+"Hello, world!" n times.
+
+Input
+An Integer n, 1 <= n <= 10
+Output
+"Hello, world!" printed n times, each one on a new line.
+
+Sample Testcase
+Input 1
+2
+Output 1
+Hello, world! 
+Hello, world!
